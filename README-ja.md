@@ -1,4 +1,4 @@
-这是一份为 Sea Lantern 项目量身定制的 GitHub README.md 日语翻译。我采用了技术文档常用的“丁寧語”（郑重体），既专业又易于阅读。
+
 Sea Lantern (海晶灯)
 Tauri 2 + Rust + Vue 3 ベースの Minecraft サーバー管理ツール
 [github-stars] [github-forks] [github-latest]
