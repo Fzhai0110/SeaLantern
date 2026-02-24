@@ -29,14 +29,5 @@ Tauri 2 + Rust + Vue 3 をベースにした、軽量な Minecraft サーバー�
 
 ## クイックスタート
 
-[最新リリース](https://github.com/SeaLantern-Studio/SeaLantern/releases/latest)をダウンロードし、サーバーの JAR ファイルをインポートして Java を選択するだけ。あとは「起動」ボタンを押せば完了です。
+[最新リリース](https://github.com/SeaLantern-Studio/SeaLantern/releases/latest)をダウンロードし、サーバーの JAR ファイルをインポートして Java を選択するだけ。あとは「起動」ボタンを押せば完了です
 
-## 開発
-
-Node.js 20+ および Rust 1.70+ が必要です。
-
-```bash
-git clone [https://github.com/SeaLantern-Studio/SeaLantern.git](https://github.com/SeaLantern-Studio/SeaLantern.git)
-cd SeaLantern
-npm install
-npm run tauri dev
